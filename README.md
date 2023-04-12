@@ -63,7 +63,15 @@ $ expo start
 # Lembre-se de alterar o endereco ip (192.168.15.43) para o do seu computador!
 $ json-server --watch --host 192.168.15.43 db.json
 ```
+## :collision: Erros
 
+### Conflito versões do Node
+
+```bash
+#  Erro: Failed to construct transformer: Error: error:0308010C:digital envelope routines::unsupported
+$ env:NODE_OPTIONS = "--openssl-legacy-provider"`
+```
+[Fonte](https://cursos.alura.com.br/forum/topico-como-resolvi-o-erro-failed-to-construct-transformer-error-0308010c-digital-envelope-routines-unsupported-258899)
 
 
  :wave: 
