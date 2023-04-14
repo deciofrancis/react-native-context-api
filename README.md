@@ -73,9 +73,6 @@ $ env:NODE_OPTIONS = "--openssl-legacy-provider"`
 ```
 [Fonte - conflito Node](https://cursos.alura.com.br/forum/topico-como-resolvi-o-erro-failed-to-construct-transformer-error-0308010c-digital-envelope-routines-unsupported-258899)
 
-
- :wave: 
-
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
 [rn]: https://facebook.github.io/react-native/
